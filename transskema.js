@@ -877,7 +877,7 @@ jQuery(function() {
     $('#from-textarea').click(function(){
         console.log("KLIK")
         if(!FROM){
-            alert("❗❗Silahkan pilih bahasa terlebih dahulu...❗❗")
+            alert("🔔 Silahkan klik tombol Pilih Bahasa 👈 untuk menggunakan translator Aksara Jawa. Terima kasih 🙏")
         }
     })
 });
